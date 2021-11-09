@@ -1,0 +1,35 @@
+*{
+    outline: tomato dotted;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    /* background-color: blue; */
+}
+
+#vertbox{
+    /* display:inline-block; */
+    background-color: yellow;
+    height: 40%;
+    width: 100px;
+    margin-left: 25%;
+}
+#vertbox2{
+    display:inline-block;
+     background-color: yellow;
+    height: 50%;
+    width: 100px;
+    margin-left: 25%;
+} 
+
+#horibox{
+    /* display:inline-block; */
+    background-color: yellow;
+    height: 100px;
+    width: 3000px;
+}
+
+#container{
+    height: 1000px;
+    width: 3000px;
+    background-color: blue;
+}
